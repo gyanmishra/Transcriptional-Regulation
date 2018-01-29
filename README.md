@@ -8,3 +8,5 @@
 3. [Metagene](http://rpubs.com/achitsaz/94710)
 
 4. [Gene set clustering based on Functional annotation](http://genescf.kandurilab.org/)
+
+5. [Visualization of ChIP-seq data using Heatmaps](https://www.biostars.org/p/180314/)
