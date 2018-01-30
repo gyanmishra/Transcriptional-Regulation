@@ -11,4 +11,4 @@
 
 5. [Visualization of ChIP-seq data using Heatmaps](https://www.biostars.org/p/180314/)
 
-6. [Normalized expression unit explianed](https://www.biostars.org/p/273537/)
+6. [Normalized expression unit explained](https://www.biostars.org/p/273537/)
